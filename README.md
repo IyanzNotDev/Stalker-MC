@@ -8,7 +8,7 @@ Dibuat dengan Flask, di-deploy ke Render.
 ## Creator
 
 Iyann Nak MBG
-Telegram: @iyannz
+Telegram: t.me/IyanAlfarez
 
 ---
 
